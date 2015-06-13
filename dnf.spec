@@ -1,4 +1,4 @@
-%global hawkey_version 0.5.5
+%global hawkey_version 0.5.8-1.15.20150613git3f53248054f07c437a72cb22b1657feec88619cf.git.0.3f53248.fc23
 %global librepo_version 1.7.16
 %global libcomps_version 0.1.6
 %global rpm_version 4.12.0
